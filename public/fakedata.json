@@ -1,0 +1,152 @@
+[
+  {
+    "playerId": "P001",
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/2FK5hqd/p0jiakh8-virat-kohli-afp-625x300-11-August-19.webp",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": "P002",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/brxQqwR/download.webp",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": "P003",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/C6wbqvx/download.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": "P004",
+    "name": "Joe Root",
+    "country": "England",
+    "image": "https://i.ibb.co.com/DDxL5zS/download.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1400000
+  },
+  {
+    "playerId": "P005",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/kJJPDSQ/download.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1200000
+  },
+  {
+    "playerId": "P006",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.ibb.co.com/sWF6K0f/1577470698-1812.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1100000
+  },
+  {
+    "playerId": "P007",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/XJ2j5xF/download.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 1300000
+  },
+  {
+    "playerId": "P008",
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/x3r3Trz/images.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 1700000
+  },
+  {
+    "playerId": "P009",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/bzk0Jqh/download.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm orthodox",
+    "biddingPrice": 1200000
+  },
+  {
+    "playerId": "P010",
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/NsSY90y/download.jpg",
+    "role": "Wicketkeeper Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "None",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": "P011",
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/DLNLKZK/download.jpg",
+    "role": "Bowler",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 1100000
+  },
+  {
+    "playerId": "P012",
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/BqhtrZj/download.jpg",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 1400000
+  },
+  {
+    "playerId": "P013",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/mz5dvQP/download.jpg",
+    "role": "All-Rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": "P014",
+    "name": "Mohammad Amir",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/nsNxbcR/download.jpg",
+    "role": "Bowler",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": 1000000
+  },
+  {
+    "playerId": "P015",
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/HGvZTQR/download.jpg",
+    "role": "All-Rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": 1300000
+  }
+]
